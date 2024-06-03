@@ -52,7 +52,7 @@
     "@storybook/builder-vite": "^0.2.2",
     "@storybook/react": "^6.5.16",
     "@testing-library/jest-dom": "^6.4.0",
-    "@testing-library/react": "^15.0.7",
+    "@testing-library/react": "^16.0.0",
     "@testing-library/react-hooks": "^8.0.1",
     "@testing-library/user-event": "^14.5.1",
     "@types/react": "^18.3.0",
